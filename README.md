@@ -119,3 +119,4 @@ Some very basic introductory notes starting from scratch.
 
 ## Links
 * https://www.youtube.com/watch?v=VwVg9jCtqaU
+* https://www.youtube.com/watch?v=nl7kDPYD20A
