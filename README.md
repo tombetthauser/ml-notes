@@ -1,4 +1,6 @@
-# Machine Learning Notes
+# Machine Learning 🧠✨
+
+Some very basic introductory notes starting from scratch
 
 ## Analyzing the Problem
 * predict something?
@@ -38,3 +40,17 @@
 * know the basics of your chosen language
 * R is specifically for machine learning
 * python is the industry standard
+
+--- 
+
+## Layers (?)
+* functions whose goal is to have the right output for an input
+* ie say whether an image is a hotdog or not (1 or 0)
+* they have randomly initialized variables (?)
+* referred to sometimes as neurons (?)
+
+## Epochs
+
+## Convolutions
+
+## Pooling
