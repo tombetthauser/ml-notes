@@ -106,3 +106,16 @@ Some very basic introductory notes starting from scratch.
 
 ## MirroredStrategy
 * a method that distributes model training across multiple gpus
+
+## Clusters (?)
+
+## Saved Model
+* version of your model for user-facing apps / webapps etc
+* its a big python model (?)
+* tensorflow lite is for mobile models offline
+* can run on a server
+
+---
+
+## Links
+* https://www.youtube.com/watch?v=VwVg9jCtqaU
